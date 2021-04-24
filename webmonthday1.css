@@ -1,0 +1,16 @@
+body{
+    
+    
+    background-image: url("background.jpg");
+}
+label{
+    color:blue;
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 2px;
+    
+    
+}
+h1{
+    color: white;
+}
